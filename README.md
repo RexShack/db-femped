@@ -12,4 +12,4 @@
 - add db-femped to your resources folder
 
 # Starting the resource
-- if not placed in a folder that is already ensured, add the following to your server.cfg file : ensure redm-femped
+- if not placed in a folder that is already ensured, add the following to your server.cfg file : ensure db-femped
